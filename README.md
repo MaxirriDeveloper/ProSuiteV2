@@ -35,7 +35,7 @@ Frameworks y Bibliotecas:
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Color Principal | ![#121924](https://via.placeholder.com/10/121924?text=+)  #121924|
-| Color secundario | ![##3735fe](https://via.placeholder.com/10/#3735fe?text=+) ##3735fe |
+| Color secundario | ![##3735fe](https://via.placeholder.com/10/#3735fe?text=+) #3735fe |
 | Color botones | ![##1b49f4](https://via.placeholder.com/10/#1b49f4?text=+) #1b49f4 |
 
 
